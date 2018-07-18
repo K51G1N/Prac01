@@ -22,7 +22,6 @@ namespace Drips
             Console.ReadLine();
 
             double cupsH = (ph * 1000) / 250;
-            double cupsH = (ph * 1000) / 250;
 
 
 
